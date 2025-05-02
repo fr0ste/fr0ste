@@ -3,7 +3,6 @@
 <h4 align="center">Developer | Clean Architecture Enthusiast | IT Student</h4>
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-555555?style=for-the-badge&logo=github&logoColor=white)](https://fr0ste.github.io/)
-  [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://fr0ste.github.io/resume.pdf)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/froste-dev)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:figueroamartinezjoelfrancisco@gmail.com)
 </div>
